@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* --------------------------------------HEADER------------------------------------------- */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 22vh;
+    align-items: center;
+    padding: 10px;
+}
+
+#criar_conta{
+
+}
+
+
+
+.LogoS{
+    width: 9vw;
+}
+
+#txt_nav{
+    width: 28vw;
+    display: flex;
+    justify-content: space-between;
+    color: orangered;
+}
+
+.Botaos{
+    display: flex;
+    padding: 20vw;
+}
+
+/* -------------------------------------HEADER------------------------------------------------- */
+
+
+/* ---------------------------------------MAIN------------------------------------------------- */
+
+.section_main{
+    align-items: center;
+    height: 90vh;
+}
+
+.main_mrb{
+        display: flex;
+        justify-content: space-between;
+}
+.mercados{
+    display: flex;
+    justify-content: space-between;
+}
+.restaurantes{
+    display: flex;
+    justify-content: space-between;
+}
+.bebidas{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_pe{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.padarias{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.entregador{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_whb{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main_cya{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* ---------------------------------------MAIN------------------------------------------------- */
